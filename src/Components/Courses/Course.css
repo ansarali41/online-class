@@ -1,0 +1,9 @@
+.main-container{
+    display:flex;
+}
+.course-container{
+    width:70%;
+}
+.purchase-summary{
+    margin-left: 40px;
+}
